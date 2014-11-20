@@ -1,4 +1,4 @@
 FuzzyQuery-Information-Retrieval
 ================================
 
-Information Retrieval System based on FuzzyQuery Lucene library implemented in Java.
+Information Retrieval System based on Apache Lucene FuzzyQuery implemented in Java.
